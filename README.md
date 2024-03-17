@@ -1,5 +1,6 @@
 # CustomGPT for Amazon Product Recommendations
 - A user friendly Chat UI for Amazon Product recommendation based on the Product Catalog as Knowledge Source
+- Its a dev project
 
 ## Screen-shots of the CustomGPT in use
 <img width="517" alt="Screenshot 2024-03-14 at 4 51 13 PM" src="https://github.com/pm-harshad-mane/AmazonProductRecommendationGenAI/assets/8835908/ff5a1575-1497-4747-8759-1c33d1bea988">
